@@ -1,0 +1,385 @@
+#EXTM3U cache=500 deinterlace=1
+#EXTINF:-1 tvg-name="Iнтер" group-title="TV-UA", Iнтер
+udp://@239.0.1.41:1234
+#EXTINF:-1 tvg-name="1+1" group-title="TV-UA", 1+1
+udp://@239.0.1.84:1234
+#EXTINF:-1 tvg-name="ICTV" group-title="TV-UA", ICTV
+udp://@239.0.1.193:1234
+#EXTINF:-1 tvg-name="Новий Канал" group-title="TV-UA", Новий Канал
+udp://@239.0.1.192:1234
+#EXTINF:-1 tvg-name="СТБ" group-title="TV-UA", СТБ
+udp://@239.0.1.189:1234
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA", Украина
+http://78.26.128.52:6666
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="TV-UA", МАТЧ! ФУТБОЛ 1 HD
+http://45.67.230.146:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="TV-UA", МАТЧ! ФУТБОЛ 2 HD
+http://45.67.230.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="TV-UA", Матч! Футбол 1
+http://195.162.90.141:8080/8b804b43f839479e0671340cf37e8555
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="TV-UA", Матч! Футбол 2
+http://195.162.90.141:8080/36efbb6e1af7983ec59ae790498692ce
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="TV-UA", Матч! Футбол 2
+http://213.174.8.7:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="TV-UA", Матч! Футбол 3
+http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
+#EXTINF:-1 tvg-name="Футбол" group-title="TV-UA", Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 tvg-name="Футбол 1 UA" group-title="TV-UA", ФУТБОЛ 1 UA
+http://45.67.230.146:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-name="Футбол 2 UA" group-title="TV-UA", ФУТБОЛ 2 UA
+http://45.67.230.146:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-name="Футбол 1" group-title="TV-UA", Футбол 1
+http://195.162.90.141:8080/c4899b628faa196e0c7ee76e7b3240e9
+#EXTINF:-1 tvg-name="Футбол 2" group-title="TV-UA", Футбол 2
+http://195.162.90.141:8080/a10205989fef823106861151d240cee4
+#EXTINF:-1 tvg-name="K1" group-title="TV-UA", K1
+udp://@239.0.1.43:1234
+#EXTINF:-1 tvg-name="K2" group-title="TV-UA", K2
+udp://@239.0.1.47:1234
+#EXTINF:-1 tvg-name="НТН" group-title="TV-UA", НТН
+udp://@239.0.1.42:1234
+#EXTINF:-1 tvg-name="Мега" group-title="TV-UA", Мега
+udp://@239.0.1.44:1234
+#EXTINF:-1 tvg-name="Zoom" group-title="TV-UA", Zoom
+udp://@239.0.1.45:1234
+#EXTINF:-1 tvg-name="Enter Film" group-title="TV-UA", Enter Film
+udp://@239.0.1.46:1234
+#EXTINF:-1 tvg-name="Пiксель ТВ" group-title="TV-UA", Пiксель ТВ
+udp://@239.0.1.48:1234
+#EXTINF:-1 tvg-name="2+2" group-title="TV-UA", 2+2
+udp://@239.0.1.112:1234
+#EXTINF:-1 tvg-name="ТЕТ" group-title="TV-UA", ТЕТ
+udp://@239.0.1.111:1234
+#EXTINF:-1 tvg-name="Унiан" group-title="TV-UA", Унiан
+udp://@239.0.1.82:1234
+#EXTINF:-1 tvg-name="Бигуди" group-title="TV-UA", Бигуди
+udp://@239.0.1.132:1234
+#EXTINF:-1 tvg-name="Плюс Плюс" group-title="TV-UA", Плюс Плюс
+udp://@239.0.1.86:1234
+#EXTINF:-1 tvg-name="M1" group-title="TV-UA", M1
+udp://@239.0.1.190:1234
+#EXTINF:-1 tvg-name="M2" group-title="TV-UA", M2
+udp://@239.0.1.194:1234
+#EXTINF:-1 tvg-name="Оце ТВ" group-title="TV-UA", Оце ТВ
+udp://@239.0.1.196:1234
+#EXTINF:-1 tvg-name="Киiв" group-title="TV-UA", Киiв
+udp://@239.0.1.85:1234
+#EXTINF:-1 tvg-name="Прямий" group-title="TV-UA", Прямий
+udp://@239.0.1.87:1234
+#EXTINF:-1 tvg-name="UA:Перший" group-title="TV-UA", UA:Перший
+udp://@239.0.1.242:1234
+#EXTINF:-1 tvg-name="UA:Культура" group-title="TV-UA", UA:Культура
+udp://@239.0.1.184:1234
+#EXTINF:-1 tvg-name="UA:Донбас" group-title="TV-UA", UA:Донбас
+udp://@239.0.1.185:1234
+#EXTINF:-1 tvg-name="UA:Закарпаття" group-title="TV-UA", UA:Закарпаття
+udp://@239.0.1.102:1234
+#EXTINF:-1 tvg-name="UA:Крим" group-title="TV-UA", UA:Крим
+udp://@239.0.1.225:1234
+#EXTINF:-1 tvg-name="Рада" group-title="TV-UA", Рада
+udp://@239.0.1.117:1234
+#EXTINF:-1 tvg-name="5 Канал" group-title="TV-UA", 5 Канал
+udp://@239.0.1.119:1234
+#EXTINF:-1 tvg-name="News 24" group-title="TV-UA", News 24
+udp://@239.0.1.197:1234
+#EXTINF:-1 tvg-name="Горизонт" group-title="TV-UA", Горизонт
+udp://@239.0.1.241:1234
+#EXTINF:-1 tvg-name="ЧеПе Iнфо" group-title="TV-UA", ЧеПе Iнфо
+udp://@239.0.1.249:1234
+#EXTINF:-1 tvg-name="4 канал" group-title="TV-UA", 4 канал
+udp://@239.0.1.96:1234
+#EXTINF:-1 tvg-name="Бутик ТВ" group-title="TV-UA", Бутик ТВ
+udp://@239.0.1.116:1234
+#EXTINF:-1 tvg-name="Наталi" group-title="TV-UA", Наталi
+udp://@239.0.1.110:1234
+#EXTINF:-1 tvg-name="Эскулап" group-title="TV-UA", Эскулап
+udp://@239.0.1.223:1234
+#EXTINF:-1 tvg-name="Донеччiна ТВ" group-title="TV-UA", Донеччiна ТВ
+udp://@239.0.1.120:1234
+#EXTINF:-1 tvg-name="Винтаж" group-title="TV-UA", Винтаж
+udp://@239.0.1.226:1234
+#EXTINF:-1 tvg-name="Черноморская ТРК" group-title="TV-UA", Черноморская ТРК
+udp://@239.0.1.94:1234
+#EXTINF:-1 tvg-name="Галичина" group-title="TV-UA", Галичина
+udp://@239.0.1.167:1234
+#EXTINF:-1 tvg-name="Громадське ТБ" group-title="TV-UA", Громадське ТБ
+udp://@239.0.1.89:1234
+#EXTINF:-1 tvg-name="Возрождение" group-title="TV-UA", Возрождение
+udp://@239.0.1.144:1234
+#EXTINF:-1 tvg-name="Новый христианский" group-title="TV-UA", Новый христианский
+udp://@239.0.1.38:1234
+#EXTINF:-1 tvg-name="Sirius" group-title="TV-UA", Sirius
+udp://@239.0.1.39:1234
+#EXTINF:-1 tvg-name="Малятко ТВ" group-title="TV-UA", Малятко ТВ
+udp://@239.0.1.236:1234
+#EXTINF:-1 tvg-name="Эко ТВ" group-title="TV-UA", Эко ТВ
+udp://@239.0.1.238:1234
+#EXTINF:-1 tvg-name="OTV Music" group-title="TV-UA", OTV Music
+udp://@239.0.1.83:1234
+#EXTINF:-1 tvg-name="Maxxi TV" group-title="TV-UA", Maxxi TV
+udp://@239.0.1.146:1234
+#EXTINF:-1 tvg-name="MusicBox" group-title="TV-UA", MusicBox
+udp://@239.0.1.37:1234
+#EXTINF:-1 tvg-name="КРТ" group-title="TV-UA", КРТ
+udp://@239.0.1.209:1234
+#EXTINF:-1 tvg-name="Глас" group-title="TV-UA", Глас
+udp://@239.0.1.114:1234
+#EXTINF:-1 tvg-name="News One" group-title="TV-UA", News One
+udp://@239.0.1.100:1234
+#EXTINF:-1 tvg-name="1 Дiловий" group-title="TV-UA", 1 Дiловий
+udp://@239.0.1.195:1234
+#EXTINF:-1 tvg-name="112 Украина" group-title="TV-UA", 112 Украина
+udp://@239.0.1.79:1234
+#EXTINF:-1 tvg-name="Еспрессо ТВ" group-title="TV-UA", Еспрессо ТВ
+udp://@239.0.1.224:1234
+#EXTINF:-1 tvg-name="NewsNetwork" group-title="TV-UA", NewsNetwork
+udp://@239.0.1.93:1234
+#EXTINF:-1 tvg-name="Надiя" group-title="TV-UA", Надiя
+udp://@239.0.1.240:1234
+#EXTINF:-1 tvg-name="Мiледi" group-title="TV-UA", Мiледi
+udp://@239.0.1.237:1234
+#EXTINF:-1 tvg-name="Правда тут" group-title="TV-UA", Правда тут
+udp://@239.0.1.107:1234
+#EXTINF:-1 tvg-name="Караван ТВ" group-title="TV-UA", Караван ТВ
+udp://@239.0.1.88:1234
+#EXTINF:-1 tvg-name="Сонце" group-title="TV-UA", Сонце
+udp://@239.0.1.118:1234
+#EXTINF:-1 tvg-name="ZIK" group-title="TV-UA", ZIK
+udp://@239.0.1.105:1234
+#EXTINF:-1 tvg-name="Телевсесвiт" group-title="TV-UA", Телевсесвiт
+udp://@239.0.1.186:1234
+#EXTINF:-1 tvg-name="ATR" group-title="TV-UA", ATR
+udp://@239.0.1.99:1234
+#EXTINF:-1 tvg-name="LALE" group-title="TV-UA", LALE
+udp://@239.0.1.143:1234
+#EXTINF:-1 tvg-name="Першiй захiдний" group-title="TV-UA", Першiй захiдний
+udp://@239.0.1.134:1234
+#EXTINF:-1 tvg-name="CNL" group-title="TV-UA", CNL
+udp://@239.0.1.104:1234
+#EXTINF:-1 tvg-name="Обоз ТВ" group-title="TV-UA", Обоз ТВ
+udp://@239.0.1.155:1234
+#EXTINF:-1 tvg-name="Eu.Music" group-title="TV-UA", Eu.Music
+udp://@239.0.1.201:1234
+#EXTINF:-1 tvg-name="8 канал" group-title="TV-UA", 8 канал
+udp://@239.0.1.239:1234
+#EXTINF:-1 tvg-name="МиГ" group-title="TV-OD", МиГ
+udp://@239.0.1.2:1234
+#EXTINF:-1 tvg-name="M.News" group-title="TV-OD", M.News
+udp://@239.0.1.3:1234
+#EXTINF:-1 tvg-name="Одесса" group-title="TV-OD", Одесса
+udp://@239.0.1.10:1234
+#EXTINF:-1 tvg-name="7 канал" group-title="TV-OD", 7 канал
+udp://@239.0.1.19:1234
+#EXTINF:-1 tvg-name="А1" group-title="TV-OD", А1
+udp://@239.0.1.36:1234
+#EXTINF:-1 tvg-name="City" group-title="TV-OD", City
+udp://@239.0.1.56:1234
+#EXTINF:-1 tvg-name="GTV" group-title="TV-OD", GTV
+udp://@239.0.1.204:1234
+#EXTINF:-1 tvg-name="GNews" group-title="TV-OD", GNews
+udp://@239.0.1.165:1234
+#EXTINF:-1 tvg-name="100 процентов" group-title="TV-OD", 100 процентов
+udp://@239.0.1.7:1234
+#EXTINF:-1 tvg-name="ОНТ" group-title="TV-OD", ОНТ
+udp://@239.0.1.8:1234
+#EXTINF:-1 tvg-name="Реноме" group-title="TV-OD", Реноме
+udp://@239.0.1.9:1234
+#EXTINF:-1 tvg-name="UA:Одеса" group-title="TV-OD", UA:Одеса
+udp://@239.0.1.21:1234
+#EXTINF:-1 tvg-name="Репортёр" group-title="TV-OD", Репортёр
+udp://@239.0.1.11:1234
+#EXTINF:-1 tvg-name="Первый городской" group-title="TV-OD", Первый городской
+udp://@239.0.1.14:1234
+#EXTINF:-1 tvg-name="Круг" group-title="TV-OD", Круг
+udp://@239.0.1.4:1234
+#EXTINF:-1 tvg-name="Здоровье" group-title="TV-OD", Здоровье
+udp://@239.0.1.15:1234
+#EXTINF:-1 tvg-name="Академия" group-title="TV-OD", Академия
+udp://@239.0.1.13:1234
+#EXTINF:-1 tvg-name="Третий цифровой" group-title="TV-OD", Третий цифровой
+udp://@239.0.1.5:1234
+#EXTINF:-1 tvg-name="Страна советов" group-title="TV-OD", Страна советов
+udp://@239.0.1.6:1234
+#EXTINF:-1 tvg-name="Глас Одесса" group-title="TV-OD", Глас Одесса
+udp://@239.0.1.81:1234
+#EXTINF:-1 tvg-name="Плюс Одесса" group-title="TV-OD", Плюс Одесса
+udp://@239.0.1.106:1234
+#EXTINF:-1 tvg-name="Град" group-title="TV-OD", Град
+udp://@239.0.1.168:1234
+#EXTINF:-1 tvg-name="Арт 24" group-title="TV-OD", Арт 24
+udp://@239.0.1.169:1234
+#EXTINF:-1 tvg-name="STV" group-title="TV-OD", STV
+udp://@239.0.1.131:1234
+#EXTINF:-1 tvg-name="Media Inform" group-title="TV-OD", Media Inform
+udp://@239.0.1.20:1234
+#EXTINF:-1 tvg-name="Южная волна HD" group-title="TV-OD", Южная волна HD
+udp://@239.0.1.26:1234
+#EXTINF:-1 tvg-name="7 канал HD" group-title="TV-OD", 7 канал HD
+udp://@239.0.1.18:1234
+#EXTINF:-1 tvg-name="Думская HD" group-title="TV-OD", Думская HD
+udp://@239.0.1.12:1234
+#EXTINF:-1 tvg-name="Квартал ТВ" group-title="TV-UA", Квартал ТВ
+udp://@239.0.1.218:1234
+#EXTINF:-1 tvg-name="36.6 ТВ" group-title="TV-UA", 36.6 ТВ
+udp://@239.0.1.229:1234
+#EXTINF:-1 tvg-name="Наука" group-title="TV-UA", Наука
+udp://@239.0.1.50:1234
+#EXTINF:-1 tvg-name="Фауна" group-title="TV-UA", Фауна
+udp://@239.0.1.51:1234
+#EXTINF:-1 tvg-name="Трофей" group-title="TV-UA", Трофей
+udp://@239.0.1.52:1234
+#EXTINF:-1 tvg-name="Дача" group-title="TV-UA", Дача
+udp://@239.0.1.53:1234
+#EXTINF:-1 tvg-name="Эпоха" group-title="TV-UA", Эпоха
+udp://@239.0.1.54:1234
+#EXTINF:-1 tvg-name="Терра" group-title="TV-UA", Терра
+udp://@239.0.1.55:1234
+#EXTINF:-1 tvg-name="Автомобiльний" group-title="TV-UA", Автомобiльний
+udp://@239.0.1.101:1234
+#EXTINF:-1 tvg-name="Fashion TV" group-title="TV-RU", Fashion TV
+udp://@239.0.1.141:1234
+#EXTINF:-1 tvg-name="Мультимания" group-title="TV-RU", Мультимания
+udp://@239.0.1.59:1234
+#EXTINF:-1 tvg-name="Беларусь 24" group-title="TV-RU", Беларусь 24
+udp://@239.0.1.187:1234
+#EXTINF:-1 tvg-name="Живи" group-title="TV-RU", Живи
+udp://@239.0.1.160:1234
+#EXTINF:-1 tvg-name="Детский мир" group-title="TV-RU", Детский мир
+udp://@239.0.1.137:1234
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="TV-RU", Иллюзион+
+udp://@239.0.1.138:1234
+#EXTINF:-1 tvg-name="ТВ 1000 Action" group-title="TV-RU", ТВ 1000 Action
+udp://@239.0.1.27:1234
+#EXTINF:-1 tvg-name="ТВ 1000" group-title="TV-RU", ТВ 1000
+udp://@239.0.1.29:1234
+#EXTINF:-1 tvg-name="ТВ 1000 Кино" group-title="TV-RU", ТВ 1000 Кино
+udp://@239.0.1.34:1234
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="TV-RU", Viasat Nature
+udp://@239.0.1.28:1234
+#EXTINF:-1 tvg-name="Viasat Explorer" group-title="TV-RU", Viasat Explorer
+udp://@239.0.1.30:1234
+#EXTINF:-1 tvg-name="Viasat History" group-title="TV-RU", Viasat History
+udp://@239.0.1.31:1234
+#EXTINF:-1 tvg-name="Еврокино" group-title="TV-RU", Еврокино
+udp://@239.0.1.145:1234
+#EXTINF:-1 tvg-name="English Club" group-title="TV-RU", English Club
+udp://@239.0.1.108:1234
+#EXTINF:-1 tvg-name="Da Vinci Learning" group-title="TV-RU", Da Vinci Learning
+udp://@239.0.1.32:1234
+#EXTINF:-1 tvg-name="Гондурас ТВ" group-title="TV-RU", Гондурас ТВ
+udp://@239.0.1.1:1234
+#EXTINF:-1 tvg-name="Аниме ТВ" group-title="TV-RU", Аниме ТВ
+udp://@239.0.1.0:1234
+#EXTINF:-1 tvg-name="VTV" group-title="TV-RU", VTV
+udp://@239.0.1.188:1234
+#EXTINF:-1 tvg-name="Ru TV" group-title="TV-RU", Ru TV
+udp://@239.0.1.70:1234
+#EXTINF:-1 tvg-name="Ru Song" group-title="TV-RU", Ru Song
+udp://@239.0.1.211:1234
+#EXTINF:-1 tvg-name="Extreme Sport" group-title="TV-RU", Extreme Sport
+udp://@239.0.1.235:1234
+#EXTINF:-1 tvg-name="Viasat Sport" group-title="TV-RU", Viasat Sport
+udp://@239.0.1.33:1234
+#EXTINF:-1 tvg-name="В гостях у сказки" group-title="TV-RU", В гостях у сказки
+udp://@239.0.1.68:1234
+#EXTINF:-1 tvg-name="Зоопарк" group-title="TV-RU", Зоопарк
+udp://@239.0.1.140:1234
+#EXTINF:-1 tvg-name="Sony Sci-Fi" group-title="TV-RU", Sony Sci-Fi
+udp://@239.0.1.139:1234
+#EXTINF:-1 tvg-name="Евроспорт" group-title="TV-RU", Евроспорт
+udp://@239.0.1.177:1234
+#EXTINF:-1 tvg-name="ИнтерАз" group-title="TV-EN", ИнтерАз
+udp://@239.0.1.161:1234
+#EXTINF:-1 tvg-name="ТНВ Планета" group-title="TV-EN", ТНВ Планета
+udp://@239.0.1.208:1234
+#EXTINF:-1 tvg-name="Fashion" group-title="TV-EN", Fashion
+udp://@239.0.1.243:1234
+#EXTINF:-1 tvg-name="ERT World Europe" group-title="TV-EN", ERT World Europe
+udp://@239.0.1.173:1234
+#EXTINF:-1 tvg-name="CGTN" group-title="TV-EN", CGTN
+udp://@239.0.1.149:1234
+#EXTINF:-1 tvg-name="2M Monde" group-title="TV-EN", 2M Monde
+udp://@239.0.1.148:1234
+#EXTINF:-1 tvg-name="TBN Ukraine" group-title="TV-EN", TBN Ukraine
+udp://@239.0.1.16:1234
+#EXTINF:-1 tvg-name="CBC Azerbaycan" group-title="TV-EN", CBC Azerbaycan
+udp://@239.0.1.215:1234
+#EXTINF:-1 tvg-name="Tamazight" group-title="TV-EN", Tamazight
+udp://@239.0.1.154:1234
+#EXTINF:-1 tvg-name="KAZAKH TV" group-title="TV-EN", KAZAKH TV
+udp://@239.0.1.74:1234
+#EXTINF:-1 tvg-name="BBC Persian" group-title="TV-EN", BBC Persian
+udp://@239.0.1.228:1234
+#EXTINF:-1 tvg-name="Ganj e Hozour TV" group-title="TV-EN", Ganj e Hozour TV
+udp://@239.0.1.153:1234
+#EXTINF:-1 tvg-name="LTV World" group-title="TV-EN", LTV World
+udp://@239.0.1.191:1234
+#EXTINF:-1 tvg-name="Arirang World" group-title="TV-EN", Arirang World
+udp://@239.0.1.175:1234
+#EXTINF:-1 tvg-name="TV Congo" group-title="TV-EN", TV Congo
+udp://@239.0.1.174:1234
+#EXTINF:-1 tvg-name="Shant TV" group-title="TV-EN", Shant TV
+udp://@239.0.1.233:1234
+#EXTINF:-1 tvg-name="RIT TV" group-title="TV-EN", RIT TV
+udp://@239.0.1.227:1234
+#EXTINF:-1 tvg-name="Real TV" group-title="TV-EN", Real TV
+udp://@239.0.1.152:1234
+#EXTINF:-1 tvg-name="World Fashion" group-title="TV-EN", World Fashion
+udp://@239.0.1.98:1234
+#EXTINF:-1 tvg-name="TRINITY. Прямий HD" group-title="TV-HD", TRINITY. Прямий HD
+udp://@239.0.1.247:1234
+#EXTINF:-1 tvg-name="TRINITY. English Club HD" group-title="TV-HD", TRINITY. English Club HD
+udp://@239.0.1.180:1234
+#EXTINF:-1 tvg-name="TRINITY. ViP Comedy HD" group-title="TV-HD", TRINITY. ViP Comedy HD
+udp://@239.0.1.121:1234
+#EXTINF:-1 tvg-name="TRINITY. ViP Megahit HD" group-title="TV-HD", TRINITY. ViP Megahit HD
+udp://@239.0.1.122:1234
+#EXTINF:-1 tvg-name="TRINITY. ViP Premiere HD" group-title="TV-HD", TRINITY. ViP Premiere HD
+udp://@239.0.1.123:1234
+#EXTINF:-1 tvg-name="TRINITY. Viasat Sport HD" group-title="TV-HD", TRINITY. Viasat Sport HD
+udp://@239.0.1.124:1234
+#EXTINF:-1 tvg-name="TRINITY. Viasat Nature/History HD" group-title="TV-HD", TRINITY. Viasat Nature/History HD
+udp://@239.0.1.125:1234
+#EXTINF:-1 tvg-name="TRINITY. Hollywood HD" group-title="TV-HD", TRINITY. Hollywood HD
+udp://@239.0.1.126:1234
+#EXTINF:-1 tvg-name="TRINITY. Travel Channel HD" group-title="TV-HD", TRINITY. Travel Channel HD
+udp://@239.0.1.127:1234
+#EXTINF:-1 tvg-name="TRINITY. Трофей HD" group-title="TV-HD", TRINITY. Трофей HD
+udp://@239.0.1.128:1234
+#EXTINF:-1 tvg-name="TRINITY. Дача HD" group-title="TV-HD", TRINITY. Дача HD
+udp://@239.0.1.181:1234
+#EXTINF:-1 tvg-name="TRINITY. Epic Drama HD" group-title="TV-HD", TRINITY. Epic Drama HD
+udp://@239.0.1.221:1234
+#EXTINF:-1 tvg-name="TRINITY. Music Box UA HD" group-title="TV-HD", TRINITY. Music Box UA HD
+udp://@239.0.1.147:1234
+#EXTINF:-1 tvg-name="TRINITY. Eu.Music HD" group-title="TV-HD", TRINITY. Eu.Music HD
+udp://@239.0.1.170:1234
+#EXTINF:-1 tvg-name="TRINITY. Fashionbox HD" group-title="TV-HD", TRINITY. Fashionbox HD
+udp://@239.0.1.217:1234
+#EXTINF:-1 tvg-name="TRINITY. Fightbox HD" group-title="TV-HD", TRINITY. Fightbox HD
+udp://@239.0.1.205:1234
+#EXTINF:-1 tvg-name="TRINITY. Fast&Funbox HD" group-title="TV-HD", TRINITY. Fast&Funbox HD
+udp://@239.0.1.172:1234
+#EXTINF:-1 tvg-name="TRINITY. Docubox HD" group-title="TV-HD", TRINITY. Docubox HD
+udp://@239.0.1.164:1234
+#EXTINF:-1 tvg-name="TRINITY. Fashion TV HD" group-title="TV-HD", TRINITY. Fashion TV HD
+udp://@239.0.1.246:1234
+#EXTINF:-1 tvg-name="TRINITY. Bollywood HD" group-title="TV-HD", TRINITY. Bollywood HD
+udp://@239.0.1.248:1234
+#EXTINF:-1 tvg-name="TRINITY. Mezzo Live HD" group-title="TV-HD", TRINITY. Mezzo Live HD
+udp://@239.0.1.216:1234
+#EXTINF:-1 tvg-name="TRINITY. Наше music HD" group-title="TV-HD", TRINITY. Наше music HD
+udp://@239.0.1.222:1234
+#EXTINF:-1 tvg-name="TRINITY. Eurosport 1 HD" group-title="TV-HD", TRINITY. Eurosport 1 HD
+udp://@239.0.1.213:1234
+#EXTINF:-1 tvg-name="TRINITY. Eurosport 2 HD" group-title="TV-HD", TRINITY. Eurosport 2 HD
+udp://@239.0.1.214:1234
+#EXTINF:-1 tvg-name="TRINITY. Nickelodeon HD" group-title="TV-HD", TRINITY. Nickelodeon HD
+udp://@239.0.1.245:1234
+#EXTINF:-1 tvg-name="TRINITY. France 24 HD" group-title="TV-HD", TRINITY. France 24 HD
+udp://@239.0.1.210:1234
+#EXTINF:-1 tvg-name="TRINITY. 112 Украина HD" group-title="TV-HD", TRINITY. 112 Украина HD
+udp://@239.0.1.244:1234
+
+
