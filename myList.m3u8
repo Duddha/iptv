@@ -30,7 +30,7 @@ http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
 #EXTINF:-1 tvg-name="Футбол" group-title="TV-UA", Телеканал Футбол
 http://ott-cdn.ucom.am/s41/index.m3u8
 #EXTINF:-1 tvg-name="Футбол 1 UA" group-title="TV-UA", ФУТБОЛ 1 UA
-http://45.67.230.146:8000/play/a01n/index.m3u8
+http://188.35.9.11:2007
 #EXTINF:-1 tvg-name="Футбол 2 UA" group-title="TV-UA", ФУТБОЛ 2 UA
 http://45.67.230.146:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-name="Футбол 1" group-title="TV-UA", Футбол 1
