@@ -34,7 +34,7 @@ http://92.43.140.249/s41/04.m3u8
 #EXTINF:-1 tvg-name="Футбол 1 UA" group-title="TV-SPORT", ФУТБОЛ 1 UA
 http://188.35.9.11:2007
 #EXTINF:-1 tvg-name="Футбол 2 UA" group-title="TV-SPORT", ФУТБОЛ 2 UA
-http://45.67.230.146:8000/play/a01o/index.m3u8
+http://185.175.92.10:8080/futbol2/mono.m3u8
 #EXTINF:-1 tvg-name="Футбол 1" group-title="TV-SPORT", Футбол 1
 http://195.162.90.141:8080/c4899b628faa196e0c7ee76e7b3240e9
 #EXTINF:-1 tvg-name="Футбол 2" group-title="TV-SPORT", Футбол 2
