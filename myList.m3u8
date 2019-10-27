@@ -15,6 +15,12 @@ udp://@239.0.1.2:1234
 udp://@239.0.1.189:1234
 #EXTINF:-1 tvg-name="Украина" group-title="TV-UA", Украина
 http://78.26.128.52:6666
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина
+http://185.175.92.10:8080/ukraina/mono.m3u8
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина HD
+http://91.212.80.14/channel/167.m3u8
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина HD (720)
+http://91.211.132.25/hls/12/stream.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="TV-SPORT", МАТЧ! ФУТБОЛ 1 HD
 http://45.67.230.146:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="TV-SPORT", МАТЧ! ФУТБОЛ 2 HD
