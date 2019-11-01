@@ -38,3 +38,21 @@ http://91.211.132.25/hls/171/stream.m3u8
 http://195.162.90.141:8080/c4899b628faa196e0c7ee76e7b3240e9
 #EXTINF:-1 tvg-name="Футбол 2" group-title="TV-SPORT", Футбол 2
 http://195.162.90.141:8080/a10205989fef823106861151d240cee4
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://streamer.in-lan.net.ua:8080/ch0084
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://streamer.in-lan.net.ua:8080/ch0081
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://streamer.in-lan.net.ua:8080/ch0085
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://streamer.in-lan.net.ua:8080/ch0082
+#EXTINF:-1,EUROSPORT 1 HD
+http://streamer.in-lan.net.ua:8080/ch0094
+#EXTINF:-1,EUROSPORT 2 HD
+http://streamer.in-lan.net.ua:8080/ch0136
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+http://streamer.in-lan.net.ua:8080/ch0088
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://streamer.in-lan.net.ua:8080/ch0083
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://streamer.in-lan.net.ua:8080/ch0080
