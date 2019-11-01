@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA", Украина
+http://78.26.128.52:6666
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина
+http://185.175.92.10:8080/ukraina/mono.m3u8
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина HD
+http://91.212.80.14/channel/167.m3u8
+#EXTINF:-1 tvg-name="Украина" group-title="TV-UA",Украина HD (720)
+http://91.211.132.25/hls/12/stream.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="TV-SPORT", МАТЧ! ФУТБОЛ 1 HD
+http://45.67.230.146:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="TV-SPORT", МАТЧ! ФУТБОЛ 2 HD
+http://45.67.230.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="TV-SPORT", Матч! Футбол 1
+http://195.162.90.141:8080/8b804b43f839479e0671340cf37e8555
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="TV-SPORT", Матч! Футбол 2
+http://195.162.90.141:8080/36efbb6e1af7983ec59ae790498692ce
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="TV-SPORT", Матч! Футбол 2
+http://188.35.9.11:2026
+#EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="TV-SPORT", Матч! Футбол 3
+http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
+#EXTINF:-1 tvg-name="Футбол" group-title="TV-SPORT", Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 tvg-name="Футбол" group-title="TV-SPORT", Футбол
+http://92.43.140.249/s41/04.m3u8
+#EXTINF:-1 tvg-name="Футбол 1 UA" group-title="TV-SPORT", ФУТБОЛ 1 UA
+http://188.35.9.11:2007
+#EXTINF:-1 tvg-name="Футбол 2 UA" group-title="TV-SPORT", ФУТБОЛ 2 UA
+http://185.175.92.10:8080/futbol2/mono.m3u8
+#EXTINF:-1 tvg-name="Футбол 1 UAr" group-title="TV-SPORT",Футбол 1 HD UA(резерв)
+http://91.212.80.14/channel/159.m3u8
+#EXTINF:-1 tvg-name="Футбол 1 UA720" group-title="TV-SPORT",Футбол 1 HD UA(720)
+http://91.211.132.25/hls/166/stream.m3u8
+#EXTINF:-1 tvg-name="Футбол 2 UAr" group-title="TV-SPORT",Футбол 2 HD UA (резерв) 
+http://91.212.80.14/channel/191.m3u8
+#EXTINF:-1 tvg-name="Футбол 2 UA720" group-title="TV-SPORT",Футбол 2 HD UA(720)
+http://91.211.132.25/hls/171/stream.m3u8
+#EXTINF:-1 tvg-name="Футбол 1" group-title="TV-SPORT", Футбол 1
+http://195.162.90.141:8080/c4899b628faa196e0c7ee76e7b3240e9
+#EXTINF:-1 tvg-name="Футбол 2" group-title="TV-SPORT", Футбол 2
+http://195.162.90.141:8080/a10205989fef823106861151d240cee4
