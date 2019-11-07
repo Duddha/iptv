@@ -1,19 +1,19 @@
 #EXTM3U cache=500 deinterlace=1 url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-name="UA:Перший" group-title="TV-UA", UA:Перший
+#EXTINF:-1 tvg-name="1ukraine" group-title="TV-UA", UA:Перший
 udp://@239.0.1.242:1234
-#EXTINF:-1 tvg-name="Iнтер" group-title="TV-UA", Iнтер
+#EXTINF:-1 tvg-name="inter" group-title="TV-UA", Iнтер
 udp://@239.0.1.41:1234
-#EXTINF:-1 tvg-name="1+1" group-title="TV-UA", 1+1
+#EXTINF:-1 tvg-name="1p1" group-title="TV-UA", 1+1
 udp://@239.0.1.84:1234
-#EXTINF:-1 tvg-name="ICTV" group-title="TV-UA", ICTV
+#EXTINF:-1 tvg-name="ictv" group-title="TV-UA", ICTV
 udp://@239.0.1.193:1234
-#EXTINF:-1 tvg-name="Новий Канал" group-title="TV-UA", Новий Канал
+#EXTINF:-1 tvg-name="novkan" group-title="TV-UA", Новий Канал
 udp://@239.0.1.192:1234
 #EXTINF:-1 tvg-name="МиГ" group-title="TV-OD", МиГ
 udp://@239.0.1.2:1234
-#EXTINF:-1 tvg-name="СТБ" group-title="TV-UA", СТБ
+#EXTINF:-1 tvg-name="stb" group-title="TV-UA", СТБ
 udp://@239.0.1.189:1234
-#EXTINF:-1 tvg-name="Украина" group-title="TV-UA", Украина
+#EXTINF:-1 tvg-name="trk-ukraina" group-title="TV-UA", Украина
 http://78.26.128.52:6666
 #EXTINF:-1 tvg-name="Украина" group-title="BoBa",Украина
 http://185.175.92.10:8080/ukraina/mono.m3u8
